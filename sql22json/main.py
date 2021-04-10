@@ -25,7 +25,5 @@ def main():
     obj = sql2json(stmt)
     js = json.dumps(obj)
     print(js)
-class Sql2Json():
-    
 if __name__ == '__main__':
     main()

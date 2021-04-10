@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='sql22json',
-    version='0.1.0',
+    version='0.1.1',
     license='MIT',
     author='Gabriel Fr. Borges',
     author_email='gabrielfr.borges@gmail.com',
