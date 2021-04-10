@@ -1,5 +1,5 @@
 import unittest
-from  sql2json.main import sql2json
+from  sql22json.main import sql2json
 
 from typing import Dict
 

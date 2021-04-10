@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='sql2json',
+    name='sql22json',
     author='Gabriel Fr. Borges',
     author_email='gabrielfr.borges@gmail.com',
     url='https://github.com/gfborges/sql2json',
